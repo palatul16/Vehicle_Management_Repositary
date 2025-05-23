@@ -63,6 +63,6 @@ java com.assignment.Main
 
 ```
 
-##📜 Author
-Atul Pal
+## 📜 Author
+Atul Pal</br>
 Feel free to connect.
